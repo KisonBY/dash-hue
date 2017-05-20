@@ -1,0 +1,35 @@
+{
+  "name": "dash-hue",
+  "version": "0.0.1",
+  "description": "Control Hue lights using Dash buttons",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^2.4.0",
+    "fs": "^0.0.1-security",
+    "node-dash-button": "^0.6.1",
+    "node-hue-api": "^2.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KisonBY/dash-hue.git"
+  },
+  "keywords": [
+    "amazon",
+    "dash",
+    "philips",
+    "hue",
+    "automation",
+    "smart",
+    "home"
+  ],
+  "author": "Siarhei Nasovich",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/KisonBY/dash-hue/issues"
+  },
+  "homepage": "https://github.com/KisonBY/dash-hue#readme"
+}

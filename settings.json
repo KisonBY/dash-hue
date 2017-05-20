@@ -1,0 +1,101 @@
+{
+    "hueBridgeIp": "10.0.0.2",
+    "hueUser": "VbaVyMpporSivuC48b4szcZaBWfW3k-1riniF58Z",
+    "dashButtons":
+    [
+        {
+            "mac": "40:b4:cd:d8:27:75",
+            "lights":
+            [
+                {
+                    "_comment": "Living room: Table lamp",
+                    "id": 1,
+                    "state":
+                    {
+                        "on": true,
+                        "bri": 255,
+                        "transition": 1000
+                    }
+                }
+            ]
+        },
+        {
+            "mac": "34:d2:70:7c:83:4c",
+            "lights":
+            [
+                {
+                    "_comment": "Bedroom: Left table lamp",
+                    "id": 3,
+                    "state":
+                    {
+                        "hue": 30000,
+                        "sat": 255,
+                        "bri": 100,
+                        "transition": 1000
+                    }
+                },
+                {
+                    "_comment": "Bedroom: Right table lamp",
+                    "id": 8,
+                    "state":
+                    {
+                        "hue": 30000,
+                        "sat": 255,
+                        "bri": 100,
+                        "transition": 1000
+                    }
+                },
+                {
+                    "_comment": "Bedroom: Light strip",
+                    "id": 4,
+                    "state":
+                    {
+                        "hue": 50000,
+                        "sat": 255,
+                        "bri": 255,
+                        "transition": 3000
+                    }
+                }
+            ]
+        },
+        {
+            "mac": "40:b4:cd:74:41:14",
+            "lights":
+            [
+                {
+                    "_comment": "Bedroom: Left table lamp",
+                    "id": 3,
+                    "state":
+                    {
+                        "hue": 0,
+                        "sat": 255,
+                        "bri": 50,
+                        "transition": 2000
+                    }
+                },
+                {
+                    "_comment": "Bedroom: Right table lamp",
+                    "id": 8,
+                    "state":
+                    {
+                        "hue": 0,
+                        "sat": 255,
+                        "bri": 50,
+                        "transition": 2000
+                    }
+                },
+                {
+                    "_comment": "Bedroom: Light strip",
+                    "id": 4,
+                    "state":
+                    {
+                        "hue": 0,
+                        "sat": 255,
+                        "bri": 255,
+                        "transition": 3000
+                    }
+                }
+            ]
+        }
+    ]
+}
